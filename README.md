@@ -1,2 +1,2 @@
-#MyApp
-This is me learning git
+# MyApp
+This is me learning **git**
